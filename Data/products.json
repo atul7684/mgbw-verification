@@ -1,0 +1,20 @@
+[
+  {
+    "UNIQUE CODE": "MGBW1001",
+    "MOM": "Jan",
+    "State": "Odisha",
+    "Contractor": "ABC Pvt Ltd",
+    "Industries": "Steel",
+    "Distributer": "Dist A",
+    "password": "1234"
+  },
+  {
+    "UNIQUE CODE": "MGBW1002",
+    "MOM": "Feb",
+    "State": "Karnataka",
+    "Contractor": "XYZ Infra",
+    "Industries": "Cement",
+    "Distributer": "Dist B",
+    "password": "1234"
+  }
+]
